@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695975071 source:c:\dev\h5\datastructures\linkedlists\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
